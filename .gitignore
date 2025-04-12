@@ -10,7 +10,6 @@ bin/
 obj/
 
 ## ASP.NET stuff
-wwwroot/
 node_modules/
 bower_components/
 secrets.json
